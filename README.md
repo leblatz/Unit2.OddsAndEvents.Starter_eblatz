@@ -1,5 +1,4 @@
 # Unit2.OddsAndEvents.Starter_eblatz
-odds and events 
 Workshop - Odds and Events
 In this workshop, you'll continue to get more practice working with events and event handlers. The goal is to create an app that allows a user to enter a number which gets placed into a number bank. The user can then sort the numbers in the bank into one of two categories: odd or even.
 
