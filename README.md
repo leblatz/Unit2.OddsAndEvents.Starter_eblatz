@@ -3,7 +3,7 @@ odds and events
 Workshop - Odds and Events
 In this workshop, you'll continue to get more practice working with events and event handlers. The goal is to create an app that allows a user to enter a number which gets placed into a number bank. The user can then sort the numbers in the bank into one of two categories: odd or even.
 
-Preview of the app: a user types 9 into the input field and clicks a button to add it to a number bank. The user then clicks the "Sort 1" button. The 9 is moved from the number bank into the "odd" category.
+ <img width="1521" alt="odds_and_events-example_flow" src="https://github.com/leblatz/Unit2.OddsAndEvents.Starter_eblatz/assets/147367227/fd9e4ef7-4056-446d-9c20-084899820fa5">
 
 Instructions
 Remember to work on a local cloned copy of your forked repo, and to add your cohort team so that your code can be reviewed!
